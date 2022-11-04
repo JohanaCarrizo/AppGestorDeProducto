@@ -20,7 +20,7 @@ public class Conexion {
     
     
     String usuario = "root";
-    String pass = "3811";
+    String pass = "";
     String db = "tienda";
     String ip = "localhost";
     String puerto = "3306";
